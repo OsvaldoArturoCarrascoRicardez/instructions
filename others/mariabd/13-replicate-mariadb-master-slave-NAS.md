@@ -2,11 +2,11 @@
 
 ### Máquina M1 (master)
 
-- **IP:** 10.1.4.245
+- **IP:** 10.1.4.245 -  Admcs1234567
 
 ### Máquina M2 (slave)
 
-- **IP:** 10.1.4.243
+- **IP:** 10.1.4.243 - Admcs1234567
 
 ## Contraseña de MariaDB
 
